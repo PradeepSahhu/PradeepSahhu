@@ -10,3 +10,5 @@ PradeepSahhu/PradeepSahhu is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 I love to engance my knowledge and try new things everyday, I love computers, It is my life and only thing that i have now. Two years ago, I lost myself in the light of computers. Love computer systems and applications and finding new ways to enhance my skills.
+
+For now, I am learning and crating new things which gives me the satisfaction to sleep at night...
