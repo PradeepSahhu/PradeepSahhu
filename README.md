@@ -49,4 +49,4 @@ For now, I am learning and crating programs which may benefit our society, i am 
 - [twitter](https://twitter.com/Pradeepsahu__)
 - [instagram](https://www.instagram.com/pradeep_sahhu/)
 
-- checkout my website: [Pradeepsahu](pradeepsahu.in)
+- checkout my website: [Pradeepsahu](https://pradeepsahu.in/)
