@@ -18,7 +18,7 @@ PradeepSahhu/PradeepSahhu is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-## Skills
+# Skills
 - Frontend: 
   > HTML, 
   > CSS, 
@@ -26,26 +26,26 @@ You can click the Preview link to take a look at your changes.
   > Bootstrap.
 - Backend: 
   > Node, 
-   >> npm module
-   >> Express
+   >> npm module,
+   >> Express.
   > EJS.
 - Database:, 
    > Mongoosedb 
 - Python.
  
- ## Learning
+ # Learning
  - C++,
  - Korean,
  - DSA,
  - OOP.
  
- ## About me
+ # About me
 - Development is the path of continuous Learning, we can never satisfy from our knowledge. our knowledge is worth only when we can create something. 
 - There is no perfect way, perfect answer, perfect life **and No Perfect Code**.
 - Communication is the key, make friends and develop your skills.
 
 For now, I am learning and crating programs which may benefit our society, i am always ready to support and comtribute in such programs.
-### Contact Information
+# Contact Information
 - [twitter](https://twitter.com/Pradeepsahu__)
 - [instagram](https://www.instagram.com/pradeep_sahhu/)
 
