@@ -20,24 +20,24 @@ You can click the Preview link to take a look at your changes.
 
 ## Skills
 - Frontend: 
-  > HTML 
-  > CSS 
-  > JAVASCRIPT
-  > Bootstrap
+  > HTML, 
+  > CSS, 
+  > JAVASCRIPT,
+  > Bootstrap.
 - Backend: 
-  > Node 
-   > npm module
-   > Express
-  > EJS
-- Database: 
+  > Node, 
+   >> npm module
+   >> Express
+  > EJS.
+- Database:, 
    > Mongoosedb 
-- Python 
+- Python.
  
  ## Learning
- - C++
- - Korean
- - DSA
- - OOP
+ - C++,
+ - Korean,
+ - DSA,
+ - OOP.
  
  ## About me
 - Development is the path of continuous Learning, we can never satisfy from our knowledge. our knowledge is worth only when we can create something. 
