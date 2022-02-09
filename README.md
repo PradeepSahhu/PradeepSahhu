@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 - Database:, 
    > Mongoosedb 
 - Python.
-- 58+ WPM (Typing Speed)
+- 60+ WPM (Typing Speed)
  
  # Learning
  - C++,
@@ -52,7 +52,8 @@ For now, I am learning and crating programs which may benefit our society, i am 
 
 - checkout my website: [Pradeepsahu](https://pradeepsahu.in/)
 ####
- ![typing_speed](https://user-images.githubusercontent.com/94203408/152657491-971e0e56-d137-405b-85c1-de68865d87bb.png)
+ ![typing_speed]![Screenshot (33)](https://user-images.githubusercontent.com/94203408/153182424-53d02fab-7f92-4059-8e4d-db296152d7f2.png)
+
 
 
 
