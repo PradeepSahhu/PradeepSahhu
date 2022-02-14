@@ -52,7 +52,7 @@ For now, I am learning and crating programs which may benefit our society, i am 
 
 - checkout my website: [Pradeepsahu](https://pradeepsahu.in/)
 ####
- ![typing_speed]!![Typing Speed](https://user-images.githubusercontent.com/94203408/153517162-81f53b3f-8f6e-4dcd-b47e-86c81c95eae0.png)
+ ![Typing Speed](https://user-images.githubusercontent.com/94203408/153517162-81f53b3f-8f6e-4dcd-b47e-86c81c95eae0.png)
 
 
 
