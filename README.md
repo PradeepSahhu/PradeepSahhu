@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
    >> body-parser.
   > EJS.
 - Database:, 
-   > Mongoosedb
+   > Mongoosedb,
    > lodash
 - Python.
 - 60+ WPM (Typing Speed)
