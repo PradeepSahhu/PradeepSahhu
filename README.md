@@ -1,8 +1,5 @@
 <h1 align="center"> Introduction </h1>
 
-![profile-picture](https://user-images.githubusercontent.com/94203408/157316395-6f27ba07-c495-488a-bc93-2240d7867d9c.jpg)
-
-
 <P>Namaste! My name is pradeep sahu, i'm 19, a computer science student 🧑‍💻 from New Delhi, India.  I design and make websites for Bussiness and Institutions</p>
 
 - I like web-development and for now i am observing myself to its limit (which doesn't exist).
