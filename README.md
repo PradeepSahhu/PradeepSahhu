@@ -1,5 +1,8 @@
 <h1 align="center"> Introduction </h1>
 
+![profile-picture](https://user-images.githubusercontent.com/94203408/157316395-6f27ba07-c495-488a-bc93-2240d7867d9c.jpg)
+
+
 <P>Namaste! My name is pradeep sahu, i'm 19, a computer science student 🧑‍💻 from New Delhi, India.  I design and make websites for Bussiness and Institutions</p>
 
 - I like web-development and for now i am observing myself to its limit (which doesn't exist).
@@ -26,14 +29,14 @@
 - Cyber Security 
 - 60+ WPM (Typing Speed)
 
- <hr>
+ 
  
  <h3 align="center"> Tools </h3>
 - My tools (IDLE) for Development work are Visual-studio code, Pycharm, Python interpreter v3.10.0, and Atom.
 - 🧑‍💻 Hign knowledge of linux commands and comfortable with unix commands.
-- 📫 Reach me [Email](mailto:official.pradeepsahu@gmail.com) 
+[Email](mailto:official.pradeepsahu@gmail.com) 
 
-<hr>
+
 
  
  # Learning
