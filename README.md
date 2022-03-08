@@ -1,46 +1,47 @@
-- 👋 Hi, I’m @PradeepSahu, I'm 19.
-- 🧑‍🎓 I am a student. 
-- 👀 I’m interested in 
-> Web Development, 
-> Database, 
-> Cyber Security, 
-> Game Development, 
-> Data Science, 
-> A.I and 
-> Quantum Computing.
- 
-- 🌱 I’m currently learning Python, HTML, CSS and JavaScript.
-- My tools (IDLE) for Development work are Visual-studio code, Pycharm, Python interpreter v3.10.0, and Atom.
-- 🧑‍💻 UNIX Command line Expert.
-- 📫 Reach me [Email](mailto:official.pradeepsahu@gmail.com) 
-<!---
-PradeepSahhu/PradeepSahhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center"> Introduction </h1>
 
-# Skills
-- Frontend: 
-  > HTML, 
-  > CSS, 
-  > JAVASCRIPT,
-  > Bootstrap.
+<P>Namaste! My name is pradeep sahu, i'm 19, a computer science student 🧑‍💻 from New Delhi, India.  I design and make websites for Bussiness and Institutions</p>
+
+- I like web-development and for now i am observing myself to its limit (which doesn't exist).
+
+<h3 align="center"> Skills </h3>
+
+- Full stack Web Development ,
+  - Frontend
+  - HTML
+  - CSS
+  - JAVASCRIPT
+  -  Bootstrap.
 - Backend: 
-  > Node.js, 
-   >> npm module,
-   >> Express.js
-   >> body-parser.
-  > EJS.
-- Database:, 
-   > Mongoosedb,
-   > lodash
+  -  Node.js 
+  - npm module
+  -  Express.js
+  -  body-parser
+  -  EJS.
+- Database: 
+   - Mongoosedb
+   - lodash
 - Python.
+- Database like mongoose, 
+- Cyber Security 
 - 60+ WPM (Typing Speed)
+
+ <hr>
+ 
+ <h3 align="center"> Tools </h3>
+- My tools (IDLE) for Development work are Visual-studio code, Pycharm, Python interpreter v3.10.0, and Atom.
+- 🧑‍💻 Hign knowledge of linux commands and comfortable with unix commands.
+- 📫 Reach me [Email](mailto:official.pradeepsahu@gmail.com) 
+
+<hr>
+
  
  # Learning
  - C++,
  - Korean,
  - DSA,
  - OOP.
+ - Python.
  
  # About me
 - Development is the path of continuous Learning, we can never satisfy from our knowledge. our knowledge is worth only when we can create something. 
@@ -54,7 +55,11 @@ For now, I am learning and crating programs which may benefit our society, i am 
 
 - checkout my website: [Pradeepsahu](https://pradeepsahu.in/)
 ####
- ![typingSpeed](https://user-images.githubusercontent.com/94203408/153798264-9fe5f53d-78e5-4677-b2ef-3a260e1d7409.png)
+<h2 align="center"> Typing </h2>
+<P> I am expert typist, i can type almost 100+ WPMs in a good day. Mine average is almost 65+ WMPs this is an avidence. </p>
+
+
+![typingSpeed](https://user-images.githubusercontent.com/94203408/153798264-9fe5f53d-78e5-4677-b2ef-3a260e1d7409.png)
 
 
 
