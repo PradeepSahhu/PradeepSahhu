@@ -4,6 +4,8 @@
 
 - I like web-development and for now i am observing myself to its limit (which doesn't exist).
 
+<h2 align="center"> struggle == Development </h2>
+
 <h3 align="center"> Skills </h3>
 
 - Full stack Web Development ,
