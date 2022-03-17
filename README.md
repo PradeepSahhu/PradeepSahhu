@@ -58,7 +58,7 @@ For now, I am learning and crating programs which may benefit our society, i am 
 - checkout my website: [Pradeepsahu](https://pradeepsahu.in/)
 ####
 <h2 align="center"> Typing </h2>
-<P> I am expert typist, i can type almost 100+ WPMs in a good day. Mine average is almost 65+ WMPs this is an avidence. </p>
+<P> I am expert typist, i can type almost 100+ WPM in a good day. Mine average is almost 65+ WPM. </p>
 
 
 ![TypingSpeed67](https://user-images.githubusercontent.com/94203408/158845506-c3142c26-a2bc-45bc-933f-2127016e10ef.png)
