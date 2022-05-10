@@ -61,7 +61,8 @@ For now, I am learning and crating programs which may benefit our society, i am 
 <P> I am expert typist, i can type almost 100+ WPM in a good day. Mine average is almost 65+ WPM. </p>
 
 
-![TypingSpeed67](https://user-images.githubusercontent.com/94203408/158845506-c3142c26-a2bc-45bc-933f-2127016e10ef.png)
+![71WPM](https://user-images.githubusercontent.com/94203408/167576689-88863548-226d-42b6-8c1b-ea8519961ebd.png)
+
 
 
 
