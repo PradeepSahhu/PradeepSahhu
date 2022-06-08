@@ -69,6 +69,7 @@ For now, I am learning and crating programs which may benefit our society, i am 
 ####
 <h2 align="center"> Typing </h2>
 <P> I am expert typist, i can type almost 100+ WPM in a good day. Mine average is almost 65+ WPM. </p>
+<hr/ style="border-width:10">
 
 
 ![71WPM](https://user-images.githubusercontent.com/94203408/167576689-88863548-226d-42b6-8c1b-ea8519961ebd.png)
