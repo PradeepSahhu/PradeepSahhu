@@ -73,6 +73,8 @@ For now, I am learning and crating programs which may benefit our society, i am 
 
 
 ![71WPM](https://user-images.githubusercontent.com/94203408/167576689-88863548-226d-42b6-8c1b-ea8519961ebd.png)
+![75-typing](https://user-images.githubusercontent.com/94203408/173128679-4b300ac8-8d0c-4fc1-8ed9-ba042aa68da8.png)
+
 
 
 
