@@ -8,8 +8,8 @@
 ![python](https://user-images.githubusercontent.com/94203408/172696201-b5447ea2-3a6d-4d6d-a1c0-8cf262a60802.png)
 
 <a href="https://twitter.com/Pradeepsahu__" ><img  alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter%20%40PradeepSahu__&logo=Twitter&logoColor=%231DA1F2&style=social&url=https%3A%2F%2Ftwitter.com%2FPradeepsahu__"> </a>
-<a> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Instagram%20%40pradeep_sahhu&logo=Instagram&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fpradeep_sahhu%2F"> </a>
-<a> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=LinkedIn%20%40PradeepSahu&logo=LinkedIn&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpradeep-sahu-759720224%2F"></a>
+<a href="https://www.instagram.com/pradeep_sahhu/"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Instagram%20%40pradeep_sahhu&logo=Instagram&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fpradeep_sahhu%2F"> </a>
+<a href="https://www.linkedin.com/in/pradeep-sahu-759720224/"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=LinkedIn%20%40PradeepSahu&logo=LinkedIn&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpradeep-sahu-759720224%2F"></a>
 
 
 <h1 align="center"> Introduction </h1>
