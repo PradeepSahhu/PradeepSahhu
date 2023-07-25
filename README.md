@@ -23,11 +23,11 @@
 <h3 align="center"> Skills </h3>
 
 - Full stack Web Development ,
-  - Frontend
-  - HTML
-  - CSS
-  - JAVASCRIPT
-  -  Bootstrap.
+  - [X] Frontend
+  - [X] HTML
+  - [X] CSS
+  - [X] JAVASCRIPT
+  - [X]  Bootstrap.
 - Backend: 
   -  Node.js 
   - npm module
