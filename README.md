@@ -78,8 +78,8 @@ For now, I am learning and crating programs which may benefit our society, i am 
 <details>
 <summary> See Typing Stats:  </summary> 
 
-![75-typing](https://user-images.githubusercontent.com/94203408/173128679-4b300ac8-8d0c-4fc1-8ed9-ba042aa68da8.png)
-![76-typing speed](https://user-images.githubusercontent.com/94203408/173364901-0671edc0-c8af-4b84-803b-227c59fbb18c.png)
+<img width="1470" alt="90wpm" src="https://github.com/PradeepSahhu/PradeepSahhu/assets/94203408/cd626653-9ee5-44be-bb13-ffc8597b53eb">
+
 ![Screenshot (362)](https://user-images.githubusercontent.com/94203408/179827945-fbf9e3b7-19fc-41dd-bc05-9633e9301d3b.png)
 
 
