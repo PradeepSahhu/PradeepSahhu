@@ -53,10 +53,14 @@
 
  
  # Learning
- - C++,
+ - C/C++,
+ - Java, (Java SpringBoot)
+ - Swift
+ - Blokchain
+ - Javascript
  - Korean,
  - DSA,
- - OOP.
+ - fluent in OOP Concepts.
  - Python.
  
  # About me
@@ -72,7 +76,7 @@ For now, I am learning and crating programs which may benefit our society, i am 
 - checkout my website: [Pradeepsahu](https://pradeepsahu.in/)
 ####
 <h2 align="center"> Typing </h2>
-<P> I am expert typist, i can type almost 100+ WPM in a good day. Mine average is almost 65+ WPM. </p>
+<P> I am expert typist, i can type almost 100+ WPM in a good day. Mine average is almost 80+ WPM. </p>
 <hr/ style="border-width:10">
 
 <details>
