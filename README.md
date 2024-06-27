@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/pradeep_sahhu/"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Instagram%20%40pradeep_sahhu&logo=Instagram&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fpradeep_sahhu%2F"> </a>
 <a href="https://www.linkedin.com/in/pradeep-sahu-759720224/"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=LinkedIn%20%40PradeepSahu&logo=LinkedIn&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpradeep-sahu-759720224%2F"></a>
 
-
+[![](https://visitcount.itsvg.in/api?id=PradeepSahu&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
 ## My stats
 
 
