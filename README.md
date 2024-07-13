@@ -12,7 +12,13 @@
 <a href="https://www.linkedin.com/in/pradeep-sahu-759720224/"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=LinkedIn%20%40PradeepSahu&logo=LinkedIn&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpradeep-sahu-759720224%2F"></a>
 
 [![](https://visitcount.itsvg.in/api?id=PradeepSahu&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
-## My stats
+
+<p align="center">My Trophies </p>
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PradeepSahhu" alt="Pradeep Sahu" /></a> </p>
+
+
+<p align="center">My Stats </p>
 
 
 [![](https://raw.githubusercontent.com/PradeepSahhu/pradeepSahu-profile/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
