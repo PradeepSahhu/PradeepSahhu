@@ -88,6 +88,10 @@ For now, I am learning and crating programs which may benefit our society, i am 
 - [instagram](https://www.instagram.com/pradeep_sahhu/)
 
 - checkout my website: [Pradeepsahu](https://pradeepsahu.in/)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepSahhu" alt="Pradeep Sahu" /></p>
+
 ####
 <h2 align="center"> Typing </h2>
 <P> I am expert typist, i can type almost 100+ WPM in a good day. Mine average is almost 80+ WPM. </p>
