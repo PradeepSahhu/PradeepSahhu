@@ -25,6 +25,8 @@
 [![](https://raw.githubusercontent.com/PradeepSahhu/pradeepSahu-profile/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PradeepSahhu/pradeepSahu-profile/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/PradeepSahhu/pradeepSahu-profile/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PradeepSahhu/pradeepSahu-profile/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PradeepSahhu&show_icons=true&locale=en&layout=compact" alt="Pradeep Sahu" /></p>
+
 
 <h1 align="center"> Introduction </h1>
 
