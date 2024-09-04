@@ -27,7 +27,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PradeepSahhu&show_icons=true&locale=en&layout=compact" alt="Pradeep Sahu" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepSahhu" alt="Pradeep Sahu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PradeepSahhu&show_icons=true&locale=en" alt="Pradeep Sahu" /></p>
 <h1 align="center"> Introduction </h1>
 
 <P>Namaste! My name is pradeep sahu, i'm 19, a computer science student 🧑‍💻 from New Delhi, India.  I design and make websites for Bussiness and Institutions</p>
@@ -92,7 +93,7 @@ For now, I am learning and crating programs which may benefit our society, i am 
 - checkout my website: [Pradeepsahu](https://pradeepsahu.in/)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepSahhu" alt="Pradeep Sahu" /></p>
+
 
 ####
 <h2 align="center"> Typing </h2>
