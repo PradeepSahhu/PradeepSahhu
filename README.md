@@ -11,6 +11,11 @@
 <a href="https://www.instagram.com/pradeep_sahhu/"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Instagram%20%40pradeep_sahhu&logo=Instagram&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fpradeep_sahhu%2F"> </a>
 <a href="https://www.linkedin.com/in/pradeep-sahu-759720224/"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=LinkedIn%20%40PradeepSahu&logo=LinkedIn&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpradeep-sahu-759720224%2F"></a>
 
+
+
+
+[View Resume](https://drive.google.com/file/d/1tIOaSJRy4Kg3N3P5ab5wJN-BLMrBdrva/preview)
+
 [![](https://visitcount.itsvg.in/api?id=PradeepSahu&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
@@ -47,6 +52,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepSahhu" alt="Pradeep Sahu" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PradeepSahhu&show_icons=true&locale=en" alt="Pradeep Sahu" /></p>
+
+
+
 <h1 align="center"> Introduction </h1>
 
 <P>Namaste! My name is pradeep sahu, i'm 19, a computer science student 🧑‍💻 from New Delhi, India.  I design and make websites for Bussiness and Institutions</p>
