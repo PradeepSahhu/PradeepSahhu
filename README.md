@@ -17,7 +17,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PradeepSahhu" alt="Pradeep Sahu" /></a> </p>
 
-
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" />
 <p align="center">My Stats </p>
 
 
