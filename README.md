@@ -15,17 +15,24 @@
 
 
 <div style="display: flex; justify-content: space-around;">
- 
- <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" />
+ <div style="display:inline">
+   <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/others/Guardian.gif" />
+   <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" />
+    <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" />
+   <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif"/>
+  <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/others/%E4%BC%9A%E5%91%98.gif"/>
+   <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E4%BC%9A%E5%91%98%E8%BF%9B%E9%98%B6.gif"/>
   
-  <img align="right" width="600" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="" />
+  
+ </div>
+ <div style="display:inline">
+  <img align="right" width="600" height="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="" />
+ </div>
 
 </div>
 
 
 
-<p align="center">My Trophies </p>
-  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PradeepSahhu" alt="Pradeep Sahu" /></a> </p>
 
 
