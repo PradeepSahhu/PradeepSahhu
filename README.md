@@ -76,6 +76,11 @@
 ![](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=Apache%20JMeter&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white)
+![](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge)
+![](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)
+![](https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white)
+![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 
 </div>
@@ -108,11 +113,11 @@
   <samp> Hey There!, I am
         <b><a target="_blank" href="https://pradeepsahu.in">「 Learning,coding, Helping & Growing 」</a></b>
 </samp>
-<samp>
-        
 <br>
+<samp>
 
-[View Resume](https://drive.google.com/file/d/1tIOaSJRy4Kg3N3P5ab5wJN-BLMrBdrva/preview)
+Want to Know More? See 
+[Resume](https://drive.google.com/file/d/1tIOaSJRy4Kg3N3P5ab5wJN-BLMrBdrva/preview)
         
 </samp>
 
