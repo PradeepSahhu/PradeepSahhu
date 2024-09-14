@@ -7,9 +7,13 @@
 ![javascript](https://user-images.githubusercontent.com/94203408/172696198-c8fab034-a1e0-433e-bd0a-7b944d2676d7.png)
 ![python](https://user-images.githubusercontent.com/94203408/172696201-b5447ea2-3a6d-4d6d-a1c0-8cf262a60802.png)
 
+<div>
+
 <a href="https://twitter.com/Pradeepsahu__" ><img  alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter%20%40PradeepSahu__&logo=Twitter&logoColor=%231DA1F2&style=social&url=https%3A%2F%2Ftwitter.com%2FPradeepsahu__"> </a>
 <a href="https://www.instagram.com/pradeep_sahhu/"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Instagram%20%40pradeep_sahhu&logo=Instagram&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fpradeep_sahhu%2F"> </a>
 <a href="https://www.linkedin.com/in/pradeep-sahu-759720224/"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=LinkedIn%20%40PradeepSahu&logo=LinkedIn&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpradeep-sahu-759720224%2F"></a>
+
+</div>
 
 
 
@@ -21,16 +25,15 @@
 
 <div style="display: flex; justify-content: space-around;">
  <div style="display:inline">
-   <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/others/Guardian.gif" />
-   <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" />
-    <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" />
-   <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif"/>
+  <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/others/Guardian.gif" />
+  <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" />
+  <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" />
+  <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif"/>
   <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/others/%E4%BC%9A%E5%91%98.gif"/>
-   <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E4%BC%9A%E5%91%98%E8%BF%9B%E9%98%B6.gif"/>
-  
-  
+  <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E4%BC%9A%E5%91%98%E8%BF%9B%E9%98%B6.gif"/>
  </div>
- <div style="display:inline">
+ 
+ <div style="display:inline"> 
   <img align="right" width="600" height="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="" />
  </div>
 
@@ -112,9 +115,7 @@
 - Communication is the key, make friends and develop your skills.
 
 For now, I am learning and crating programs which may benefit our society, i am always ready to support and comtribute in such programs.
-# Contact Information
-- [twitter](https://twitter.com/Pradeepsahu__)
-- [instagram](https://www.instagram.com/pradeep_sahhu/)
+
 
 - checkout my website: [Pradeepsahu](https://pradeepsahu.in/)
 
