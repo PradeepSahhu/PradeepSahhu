@@ -1,3 +1,36 @@
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://pradeepsahu.in">Pradeep Sahu</a></b>
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    <a href="https://drive.google.com/file/d/1tIOaSJRy4Kg3N3P5ab5wJN-BLMrBdrva/preview">「 Resume 」</a>
+   <br>
+    <br>
+    「 I am a full stack web developer from <b>India</b> 」
+    <br>
+    <br>
+   <br>
+    「 I am an expert in Web Development, DevOps, AI/ML and Blockchain 」
+    <br>
+  </samp>
+</p>
+
+ <div style="display:inline" align="center">
+  <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/others/Guardian.gif" />
+  <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" />
+  <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" />
+  <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif"/>
+  <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/others/%E4%BC%9A%E5%91%98.gif"/>
+  <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E4%BC%9A%E5%91%98%E8%BF%9B%E9%98%B6.gif"/>
+ </div>
+
+
+<div align="center">
 
 ![certificate (1)](https://user-images.githubusercontent.com/94203408/172693042-b71697bf-cf00-4cc5-ab77-2a08ebebc308.png)
 ![award](https://user-images.githubusercontent.com/94203408/172693522-cf28296f-771a-46e9-adad-fff715fbd636.png)
@@ -6,42 +39,8 @@
 ![javascript (1)](https://user-images.githubusercontent.com/94203408/172696196-afae7a25-08ca-4249-8d86-e4c7121b017a.png)
 ![javascript](https://user-images.githubusercontent.com/94203408/172696198-c8fab034-a1e0-433e-bd0a-7b944d2676d7.png)
 ![python](https://user-images.githubusercontent.com/94203408/172696201-b5447ea2-3a6d-4d6d-a1c0-8cf262a60802.png)
-
+</div>
 <div>
-
-<a href="https://twitter.com/Pradeepsahu__" ><img  alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter%20%40PradeepSahu__&logo=Twitter&logoColor=%231DA1F2&style=social&url=https%3A%2F%2Ftwitter.com%2FPradeepsahu__"> </a>
-<a href="https://www.instagram.com/pradeep_sahhu/"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Instagram%20%40pradeep_sahhu&logo=Instagram&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fpradeep_sahhu%2F"> </a>
-<a href="https://www.linkedin.com/in/pradeep-sahu-759720224/"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=LinkedIn%20%40PradeepSahu&logo=LinkedIn&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpradeep-sahu-759720224%2F"></a>
-
-</div>
-
-
-
-
-[View Resume](https://drive.google.com/file/d/1tIOaSJRy4Kg3N3P5ab5wJN-BLMrBdrva/preview)
-
-[![](https://visitcount.itsvg.in/api?id=PradeepSahu&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-
-<div style="display: flex; justify-content: space-around;">
- <div style="display:inline">
-  <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/others/Guardian.gif" />
-  <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" />
-  <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" />
-  <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif"/>
-  <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/others/%E4%BC%9A%E5%91%98.gif"/>
-  <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E4%BC%9A%E5%91%98%E8%BF%9B%E9%98%B6.gif"/>
- </div>
- 
- <div style="display:inline"> 
-  <img align="right" width="600" height="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="" />
- </div>
-
-</div>
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PradeepSahhu" alt="Pradeep Sahu" /></a> </p>
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -75,6 +74,38 @@
 ![](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=Apache%20JMeter&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white)
+
+
+<a href="https://twitter.com/Pradeepsahu__" ><img  alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter%20%40PradeepSahu__&logo=Twitter&logoColor=%231DA1F2&style=social&url=https%3A%2F%2Ftwitter.com%2FPradeepsahu__"> </a>
+<a href="https://www.instagram.com/pradeep_sahhu/"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Instagram%20%40pradeep_sahhu&logo=Instagram&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fpradeep_sahhu%2F"> </a>
+<a href="https://www.linkedin.com/in/pradeep-sahu-759720224/"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=LinkedIn%20%40PradeepSahu&logo=LinkedIn&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpradeep-sahu-759720224%2F"></a>
+
+</div>
+
+
+
+
+[View Resume](https://drive.google.com/file/d/1tIOaSJRy4Kg3N3P5ab5wJN-BLMrBdrva/preview)
+
+[![](https://visitcount.itsvg.in/api?id=PradeepSahu&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+
+<div style="display: flex; justify-content: space-around;">
+<a align="left" href="https://www.linkedin.com/in/pradeepsahuu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a align="left" href="https://www.linkedin.com/in/pradeepsahuu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a align="left" href="https://www.instagram.com/pradeepsahuu__/"><img src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a align="left" href="https://medium.com/@specialreaderman.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+ 
+ <div style="display:inline"> 
+  <img align="right" width="600" height="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="" />
+ </div>
+
+</div>
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PradeepSahhu" alt="Pradeep Sahu" /></a> </p>
+
 
 
 
