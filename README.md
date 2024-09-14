@@ -42,6 +42,8 @@
 </div>
 <div>
 
+<h1 align="center">Tech Stacks</h1>
+
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -76,40 +78,50 @@
 ![](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white)
 
 
-<a href="https://twitter.com/Pradeepsahu__" ><img  alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter%20%40PradeepSahu__&logo=Twitter&logoColor=%231DA1F2&style=social&url=https%3A%2F%2Ftwitter.com%2FPradeepsahu__"> </a>
-<a href="https://www.instagram.com/pradeep_sahhu/"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Instagram%20%40pradeep_sahhu&logo=Instagram&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fpradeep_sahhu%2F"> </a>
-<a href="https://www.linkedin.com/in/pradeep-sahu-759720224/"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=LinkedIn%20%40PradeepSahu&logo=LinkedIn&logoColor=%23E4405F&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpradeep-sahu-759720224%2F"></a>
-
 </div>
 
 
 
 
-[View Resume](https://drive.google.com/file/d/1tIOaSJRy4Kg3N3P5ab5wJN-BLMrBdrva/preview)
+
 
 [![](https://visitcount.itsvg.in/api?id=PradeepSahu&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
-<div style="display: flex; justify-content: space-around;">
-<a align="left" href="https://www.linkedin.com/in/pradeepsahuu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a align="left" href="https://twitter.com/Pradeepsahu__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a align="left" href="https://www.instagram.com/pradeepsahuu__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a align="left" href="https://medium.com/@specialreaderman.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<div align="center" style="display: flex; justify-content: space-around;">
+ <h2>Socials </h2>
+       
+<a align="center" href="https://www.linkedin.com/in/pradeepsahuu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a align="center" href="https://twitter.com/Pradeepsahu__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a align="center" href="https://www.instagram.com/pradeepsahuu__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a align="center" href="https://medium.com/@specialreaderman.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a align="center" href="mailto:official.pradeepsahu@gmail.com&body=hey there" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br>
  
- <div style="display:inline"> 
+ <div> 
+        
+         
   <img align="right" width="600" height="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="" />
  </div>
 
 </div>
+  <samp> Hey There!, I am
+        <b><a target="_blank" href="https://pradeepsahu.in">「 Learning,coding, Helping & Growing 」</a></b>
+</samp>
+<samp>
+        
+<br>
 
-
+[View Resume](https://drive.google.com/file/d/1tIOaSJRy4Kg3N3P5ab5wJN-BLMrBdrva/preview)
+        
+</samp>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PradeepSahhu" alt="Pradeep Sahu" /></a> </p>
 
 
 
 
-<p align="center">My Stats </p>
+<p align="center">Github Stats </p>
 
 
 [![](https://raw.githubusercontent.com/PradeepSahhu/pradeepSahu-profile/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -125,61 +137,25 @@
 
 <h1 align="center"> Introduction </h1>
 
-<P>Namaste! My name is pradeep sahu, i'm 19, a computer science student 🧑‍💻 from New Delhi, India.  I design and make websites for Bussiness and Institutions</p>
+<P>Namaste! My name is pradeep sahu, i'm 21, a computer science student 🧑‍💻 from New Delhi, India.  I design and make websites for Bussiness and Institutions</p>
 
-- I like web-development and for now i am testing myself to its limit.
-
-<h2 align="center"> struggle == Development </h2>
-
-<h3 align="center"> Skills </h3>
-
-- Full stack Web Development ,
-  - [X] Frontend
-  - [X] HTML
-  - [X] CSS
-  - [X] JAVASCRIPT
-  - [X]  Bootstrap.
-- Backend: 
-  -  Node.js 
-  - npm module
-  -  Express.js
-  -  body-parser
-  -  EJS.
-- Database: 
-   - Mongoosedb
-   - lodash
-- Python.
-- Database like mongoose, 
-- Cyber Security 
-- 60+ WPM (Typing Speed)
-
- 
- 
- <h3 align="center"> Tools </h3>
-- My tools (IDLE) for Development work are Visual-studio code, Pycharm, Python interpreter v3.10.0, and Atom.
-- 🧑‍💻 Hign knowledge of linux commands and comfortable with unix commands.
-[Email](mailto:official.pradeepsahu@gmail.com) 
+<h2 align="center"> What i believe in  <samp style="display: flex; justify-content: center; align-items: center;" height="200px" >
+                $${\color{green}Struggle == Development}$$
+        </samp> </h2>
 
 
-
- 
- # Learning
- - C/C++,
- - Java, (Java SpringBoot)
- - Swift
- - Blokchain
- - Javascript
- - Korean,
- - DSA,
- - fluent in OOP Concepts.
- - Python.
  
  # About me
+- I have been coding and building useful/helpful things from last 5 years well before i went into the college. I love to build and help others.
+- I am an expert typist as well as good enough problem solver, so you can expect any work given to me delivered well before/on time.
+
+## What is did in my college.
+
 - Development is the path of continuous Learning, we can never satisfy from our knowledge. our knowledge is worth only when we can create something. 
 - There is no perfect way, perfect answer, perfect life **and No Perfect Code**.
 - Communication is the key, make friends and develop your skills.
 
-For now, I am learning and crating programs which may benefit our society, i am always ready to support and comtribute in such programs.
+For now, I am learning and crafting programs which may benefit our society, i am always ready to support and comtribute in such programs.
 
 
 - checkout my website: [Pradeepsahu](https://pradeepsahu.in/)
