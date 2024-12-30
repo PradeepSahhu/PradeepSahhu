@@ -102,7 +102,6 @@
 <a align="center" href="https://medium.com/@specialreaderman.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a align="center" href="mailto:official.pradeepsahu@gmail.com&body=hey there" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br>
- 
  <div> 
         
          
@@ -120,6 +119,11 @@ Want to Know More? See
 [Resume](https://drive.google.com/file/d/1tIOaSJRy4Kg3N3P5ab5wJN-BLMrBdrva/preview)
         
 </samp>
+
+<br>
+ Watchout my Portfolio <a href="https://pradeepsahu.vercel.app/"> 「 Portfolio 」</a>
+<br>
+ 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PradeepSahhu" alt="Pradeep Sahu" /></a> </p>
 
