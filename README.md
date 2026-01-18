@@ -160,10 +160,12 @@ Want to Know More? See
 
 ## What is did in my college.
 
-- Development is the path of continuous Learning, we can never satisfy from our knowledge. our knowledge is worth only when we can create something. 
-- There is no perfect way, perfect answer, perfect life **and No Perfect Code**.
-- Communication is the key, make friends and develop your skills.
+- I focused on continuous learning and self-development, understanding that knowledge has value only when it is applied to create real projects.
 
+- I explored different approaches to problem-solving, learning that there is no single perfect solution—and that perfect code doesn’t exist.
+
+- I actively worked on improving my technical skills,  building friendships, collaborating with others, and growing both technically and personally.
+- 
 For now, I am learning and crafting programs which may benefit our society, i am always ready to support and comtribute in such programs.
 
 
