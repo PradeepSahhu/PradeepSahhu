@@ -165,7 +165,7 @@ Want to Know More? See
 - I explored different approaches to problem-solving, learning that there is no single perfect solution—and that perfect code doesn’t exist.
 
 - I actively worked on improving my technical skills,  building friendships, collaborating with others, and growing both technically and personally.
-- 
+  
 For now, I am learning and crafting programs which may benefit our society, i am always ready to support and comtribute in such programs.
 
 
