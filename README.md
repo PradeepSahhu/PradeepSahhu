@@ -169,7 +169,7 @@ Want to Know More? See
 For now, I am learning and crafting programs which may benefit our society, i am always ready to support and comtribute in such programs.
 
 
-- checkout my website: [Pradeepsahu](https://pradeepsahu.in/)
+- checkout my website: [Pradeepsahu](https://pradeepsahu.vercel.app/)
 
 
 
