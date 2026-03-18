@@ -32,16 +32,6 @@
 
 <div align="center">
 
-![certificate (1)](https://user-images.githubusercontent.com/94203408/172693042-b71697bf-cf00-4cc5-ab77-2a08ebebc308.png)
-![award](https://user-images.githubusercontent.com/94203408/172693522-cf28296f-771a-46e9-adad-fff715fbd636.png)
-![scholarship](https://user-images.githubusercontent.com/94203408/172693277-7f989aed-5446-4ee7-a3f6-a555a34943f9.png)
-![c-](https://user-images.githubusercontent.com/94203408/172696190-149f532b-76f6-46d5-bd03-9fd92dec0e90.png)
-![javascript (1)](https://user-images.githubusercontent.com/94203408/172696196-afae7a25-08ca-4249-8d86-e4c7121b017a.png)
-![javascript](https://user-images.githubusercontent.com/94203408/172696198-c8fab034-a1e0-433e-bd0a-7b944d2676d7.png)
-![python](https://user-images.githubusercontent.com/94203408/172696201-b5447ea2-3a6d-4d6d-a1c0-8cf262a60802.png)
-</div>
-<div>
-
 <h1 align="center">Tech Stacks</h1>
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
