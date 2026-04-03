@@ -5,7 +5,6 @@
         </samp>
 </h3>
 
-
 <p align="center"> 
   <samp>
     <a href="https://drive.google.com/file/d/1vH7ISlyqzyWH8i4sOEbHG5WL8eSJBEAD/view?usp=sharing/view?usp=sharing/preview">「 Resume 」</a>
@@ -28,7 +27,6 @@
   <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/others/%E4%BC%9A%E5%91%98.gif"/>
   <img style="display:inline;" height="100" src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E4%BC%9A%E5%91%98%E8%BF%9B%E9%98%B6.gif"/>
  </div>
-
 
 <div align="center">
 
@@ -72,16 +70,9 @@
 ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
-
 </div>
 
-
-
-
-
-
 [![](https://visitcount.itsvg.in/api?id=PradeepSahu&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
 
 <div align="center" style="display: flex; justify-content: space-around;">
  <h2>Socials </h2>
@@ -105,23 +96,18 @@
 <br>
 <samp>
 
-Want to Know More? See 
+Want to Know More? See
 [Resume](https://drive.google.com/file/d/1tIOaSJRy4Kg3N3P5ab5wJN-BLMrBdrva/preview)
-        
+
 </samp>
 
 <br>
  Watchout my Portfolio <a href="https://pradeepsahu.vercel.app/"> 「 Portfolio 」</a>
 <br>
- 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PradeepSahhu" alt="Pradeep Sahu" /></a> </p>
 
-
-
-
 <p align="center">Github Stats </p>
-
 
 [![](https://raw.githubusercontent.com/PradeepSahhu/pradeepSahu-profile/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/PradeepSahhu/pradeepSahu-profile/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PradeepSahhu/pradeepSahu-profile/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -132,8 +118,6 @@ Want to Know More? See
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepSahhu" alt="Pradeep Sahu" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PradeepSahhu&show_icons=true&locale=en" alt="Pradeep Sahu" /></p>
 
-
-
 <h1 align="center"> Introduction </h1>
 
 <P>Namaste! My name is pradeep sahu, i'm 21, a computer science student 🧑‍💻 from New Delhi, India.  I design and make websites for Bussiness and Institutions</p>
@@ -142,9 +126,8 @@ Want to Know More? See
                 $${\color{green}Struggle == Development}$$
         </samp> </h2>
 
+# About me
 
- 
- # About me
 - I have been coding and building useful/helpful things from last 5 years well before i went into the college. I love to build and help others.
 - I am an expert typist as well as good enough problem solver, so you can expect any work given to me delivered well before/on time.
 
@@ -154,37 +137,31 @@ Want to Know More? See
 
 - I explored different approaches to problem-solving, learning that there is no single perfect solution—and that perfect code doesn’t exist.
 
-- I actively worked on improving my technical skills,  building friendships, collaborating with others, and growing both technically and personally.
-  
-For now, I am learning and crafting programs which may benefit our society, i am always ready to support and comtribute in such programs.
+- I actively worked on improving my technical skills, building friendships, collaborating with others, and growing both technically and personally.
 
+For now, I am learning and crafting programs which may benefit our society, i am always ready to support and comtribute in such programs.
 
 - checkout my website: [Pradeepsahu](https://pradeepsahu.vercel.app/)
 
-
-
-
 ####
+
 <h2 align="center"> Typing </h2>
 <P> I am expert typist, i can type almost 100+ WPM in a good day. Mine average is almost 80+ WPM. </p>
 <hr/ style="border-width:10">
 
 <details>
-<summary> See Typing Stats:  </summary> 
+<summary> See Typing Stats:  </summary>
 
 <img width="1470" alt="90wpm" src="https://github.com/PradeepSahhu/PradeepSahhu/assets/94203408/cd626653-9ee5-44be-bb13-ffc8597b53eb">
 
 ![Screenshot (362)](https://user-images.githubusercontent.com/94203408/179827945-fbf9e3b7-19fc-41dd-bc05-9633e9301d3b.png)
 
-
 </details>
-
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
+## Contributions Visualize
 
-
-
-
+![](./profile-3d-contrib/profile-green-animate.svg)
