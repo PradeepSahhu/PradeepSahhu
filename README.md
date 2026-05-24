@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://drive.google.com/file/d/1vH7ISlyqzyWH8i4sOEbHG5WL8eSJBEAD/view?usp=sharing/view?usp=sharing/preview">「 Resume 」</a>
+    <a href="https://drive.google.com/file/d/1y-0u8AX9MG-nHF7pm1zq_v0npAWUFzds/view?usp=sharing">「 Resume 」</a>
    <br>
     <br>
     「 I am a full stack web developer from <b>India</b> 」
@@ -97,7 +97,7 @@
 <samp>
 
 Want to Know More? See
-[Resume](https://drive.google.com/file/d/1tIOaSJRy4Kg3N3P5ab5wJN-BLMrBdrva/preview)
+[Resume](https://drive.google.com/file/d/1y-0u8AX9MG-nHF7pm1zq_v0npAWUFzds/view?usp=sharing)
 
 </samp>
 
