@@ -10,7 +10,7 @@
     <a href="https://drive.google.com/file/d/1y-0u8AX9MG-nHF7pm1zq_v0npAWUFzds/view?usp=sharing">「 Resume 」</a>
    <br>
     <br>
-    「 I am a full stack web developer from <b>India</b> 」
+    「 I am Rust/Go/Typescript Engineer 」
     <br>
     <br>
    <br>
