@@ -14,7 +14,7 @@
     <br>
     <br>
    <br>
-    「 I am an expert in Web Development, DevOps, AI/ML and Blockchain 」
+    「 I am Full Stack AI Engineer with interest in Blockchain technology 」
     <br>
   </samp>
 </p>
